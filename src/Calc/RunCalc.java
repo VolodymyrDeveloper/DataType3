@@ -2,7 +2,7 @@ package Calc;
 
 import java.util.Scanner;
 
-public class RunCalculatorr {
+public class RunCalc {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Calc is run. Please enter your first number!");
