@@ -49,8 +49,8 @@ public class DataType {
         System.out.println("");
 
 
-        long J = 9999999;
-        long M = 7777;
+        long J = 9999999L;
+        long M = 7777L;
         long resultLongOperations;
         System.out.println("LONG OPERATIONS");
         System.out.println("Variable J equal "+ J +" ; " +"Variable M equal "+ M);
